@@ -8,7 +8,7 @@ Concurrent features module is needed
 
 ```
 
-$ pip install futures </code>
+$ <code> pip install futures </code>
 
 ```
 
